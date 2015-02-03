@@ -1,4 +1,4 @@
 test-git
 ========
 
-This is meant for save test codes
+This is for saving test codes
